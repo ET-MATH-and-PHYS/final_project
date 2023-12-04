@@ -1,4 +1,4 @@
-# Title
+# Double Categories
 
 Replace `Title` with the title of your project, and *rewrite* this markdown file to describe the following:
 
